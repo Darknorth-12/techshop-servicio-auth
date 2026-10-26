@@ -2,4 +2,4 @@ Enlace del repositorio - GA7-220501096-AA5-EV02
 =================================================
 
 
-URL DEL REPOSITORIO:https://github.com/Darknorth-12/techshop-servicio-auth
+URL DEL REPOSITORIO: https://github.com/Darknorth-12/techshop-servicio-auth
